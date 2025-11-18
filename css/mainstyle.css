@@ -1,0 +1,68 @@
+body {
+    margin: 10px 150px 50px 150px;
+    background-color: lightyellow;
+}
+
+h1 {
+    color: red;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+
+div {
+    padding: 5px 10px 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 165, 0, 0.25);
+    border: 1px solid darkred;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    overflow: auto;
+}
+
+.logo {
+  text-align: center;
+}
+
+.navigation {
+  border: 0
+  border-radius: 0;
+  background-color: lightyellow;
+  border-bottom: 2px dotted darkred;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left{
+  float: left;
+}
+
+#cover8man{
+    width: 200px;
+    margin: 10px 25px 10px 10px;
+}
+
+#covergreenlama{
+    height: 275px;
+    margin: 10px;
+}
+#coverstardust{
+    width: 40%;
+    margin: 20px;
+}
+
+
+.navigation ul {
+  font-size: 1.5rem;
+}
+
+
+
+
+
